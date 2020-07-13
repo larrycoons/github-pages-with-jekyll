@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to The Larry Coons Blog
 
 This will be amazing content for the cause ...
