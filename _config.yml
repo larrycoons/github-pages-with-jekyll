@@ -2,9 +2,8 @@ theme: minima
 title: Larry Coons Blog 
 author: LarryCoons
 email: larrycoons@larrycoons.com
-description: > # this means to ignore newlines until "baseurl:"
+description: 
   I have created this as a part of the github tutorial and I hope I can learn some things and bring my friends along for the ride. We need to learn how to get the word out!
-# social links
 twitter_username: larryallencoons
 github_username:  larrycoons
 
